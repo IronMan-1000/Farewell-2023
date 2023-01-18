@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "Farewell 2023",
+    "slug": "snack-a490ba73-a47c-4e2c-8f22-e1781c87182f",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/Avalon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/Avalon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "black"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.sarbikdiyatech.farewell",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/Avalon.png",
+        "backgroundColor": "black"
+      }
+    },
+    "web": {
+      "favicon": "./assets/Avalon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "f0d6e545-4402-40c7-af55-4d0443334322"
+      }
+    }
+  }
+}
